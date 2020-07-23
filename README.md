@@ -1,0 +1,1 @@
+This is Gh0st-bot's first git project!
